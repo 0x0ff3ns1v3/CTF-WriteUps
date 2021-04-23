@@ -46,7 +46,7 @@ Unfortunetly the flag isn't just named flag, so I had to get creative on how to 
 
 I sen this request over to burpsuite and injected some PHP code.
 
-[Image](<../Pasted image 20210422211726.png>)
+![Image](<../Pasted image 20210422211726.png>)
 
 I can now request my PHP sess id from the _/tmp/sess_phpsessid_ file. 
 
