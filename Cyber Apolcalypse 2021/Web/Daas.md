@@ -1,5 +1,5 @@
 # Daas
-![[Pasted image 20210422121526.png]]
+![Image](<../Pasted image 20210422121526.png>)
 
 ## Enumeration
 Using whatweb can help us quickly identify some potential back end information. In this case we know it is running nginx. 
