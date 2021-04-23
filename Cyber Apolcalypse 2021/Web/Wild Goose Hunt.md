@@ -1,5 +1,5 @@
 # Wild Goose Hunt
-![[Pasted image 20210422121140.png]]
+![Image](<../Pasted image 20210422121140.png>)
 
 ## Analyzing the source files
 The downloadable config comes with an entrypoint.sh file. It appears to add a user called admin with the password set as our flag. This will most likely be our endstate target.
