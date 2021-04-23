@@ -1,5 +1,6 @@
 # Caas
 ![screenshot](https://github.com/0x0ff3ns1v3/CTF-WriteUps/edit/main/Cyber Apolcalypse 2021/Pasted image 20210419183444.png)
+![Image](https://github.com/0x0ff3ns1v3/CTF-WriteUps/edit/main/Cyber Apolcalypse 2021/Pasted image 20210419183444.png)
 
 The website gives the ability to request a URL through javascript. The following shows the javascript request.
 ```bash
