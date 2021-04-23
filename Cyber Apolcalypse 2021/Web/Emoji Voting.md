@@ -1,5 +1,5 @@
 # Emoji Voting
-![[Pasted image 20210423104326.png]]
+![Image](<../Pasted image 20210423104326.png>)
 ## Code analysis
 Looking through the source code given we see a database is set up with our flag contained in it. This leads me to believe we will have to do some sort of sql injection.
 
