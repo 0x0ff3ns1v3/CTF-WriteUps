@@ -1,5 +1,5 @@
 # MiniSTRyplace
-![[Pasted image 20210423174607.png]]
+![Image](<../Pasted image 20210423174607.png>)
 
 ## Analyzing Source Code
 There appears to be a lang parameter. The PHP code does not do _str_replace_ recursively. 
