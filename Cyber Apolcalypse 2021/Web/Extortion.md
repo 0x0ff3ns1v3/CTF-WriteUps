@@ -42,11 +42,11 @@ _apt:x:100:65534::/nonexistent:/usr/sbin/nologin
 
 ## Locating the flag
 Unfortunetly the flag isn't just named flag, so I had to get creative on how to gain execution on the system. I knew the system was using PHP, so I checked for logs, environ variables for something I could control. I ended up finding a PHPSESSID being set when sending a ship home.
-![[Pasted image 20210422211651.png]]
+![Image](<../Pasted image 20210422211651.png>)
 
 I sen this request over to burpsuite and injected some PHP code.
 
-![[Pasted image 20210422211726.png]]
+[Image](<../Pasted image 20210422211726.png>)
 
 I can now request my PHP sess id from the _/tmp/sess_phpsessid_ file. 
 
