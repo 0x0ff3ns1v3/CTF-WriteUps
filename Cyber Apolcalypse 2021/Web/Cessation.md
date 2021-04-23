@@ -1,5 +1,5 @@
 # Cessation
-![[Pasted image 20210423140708.png]]
+![Image](<../Pasted image 20210423140708.png>)
 ## File provided
 The file provided appears to be configuration for Apache Traffic Server. I want to request the _/shutdown_ directory, but this directory has been remapped to the _403_ directory.
 ```bash
@@ -40,4 +40,4 @@ ________________________________________________
 ```
 
 Sending this request over to BurpSuite shows us the flag.
-![[Pasted image 20210423140636.png]]
+![Image](<../Pasted image 20210423140636.png>)
