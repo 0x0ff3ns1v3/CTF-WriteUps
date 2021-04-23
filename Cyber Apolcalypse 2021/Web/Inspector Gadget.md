@@ -1,4 +1,4 @@
-# Insepctor Gadget
+# Inspector Gadget
 ![[Pasted image 20210423175055.png]]
 
 This challenge wants us to check the files for the flag. We can recursively download all files to grep for interesting strings.
