@@ -33,7 +33,7 @@ cat military.xml
 
 
 ## Enumeration of the website
-![[Pasted image 20210422162842.png]]
+![Image](<../Pasted image 20210422162842.png>)
 Looking at the source code shows us some javascript processing our request. This also reveals to us the api being used for the request.
 ```javascript
 ...snip...
